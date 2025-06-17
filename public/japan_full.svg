@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200">
+  <g fill="#eee" stroke="#333" stroke-width="1">
+    <path id="hokkaido" d="M100,100 h40 v40 h-40 z" />
+    <path id="aomori" d="M200,100 h40 v40 h-40 z" />
+    <path id="iwate" d="M300,100 h40 v40 h-40 z" />
+    <path id="miyagi" d="M400,100 h40 v40 h-40 z" />
+    <path id="akita" d="M500,100 h40 v40 h-40 z" />
+    <path id="yamagata" d="M600,100 h40 v40 h-40 z" />
+    <path id="fukushima" d="M700,100 h40 v40 h-40 z" />
+    <path id="ibaraki" d="M800,100 h40 v40 h-40 z" />
+    <path id="tochigi" d="M100,200 h40 v40 h-40 z" />
+    <path id="gunma" d="M200,200 h40 v40 h-40 z" />
+    <path id="saitama" d="M300,200 h40 v40 h-40 z" />
+    <path id="chiba" d="M400,200 h40 v40 h-40 z" />
+    <path id="tokyo" d="M500,200 h40 v40 h-40 z" />
+    <path id="kanagawa" d="M600,200 h40 v40 h-40 z" />
+    <path id="niigata" d="M700,200 h40 v40 h-40 z" />
+    <path id="toyama" d="M800,200 h40 v40 h-40 z" />
+    <path id="ishikawa" d="M100,300 h40 v40 h-40 z" />
+    <path id="fukui" d="M200,300 h40 v40 h-40 z" />
+    <path id="yamanashi" d="M300,300 h40 v40 h-40 z" />
+    <path id="nagano" d="M400,300 h40 v40 h-40 z" />
+    <path id="gifu" d="M500,300 h40 v40 h-40 z" />
+    <path id="shizuoka" d="M600,300 h40 v40 h-40 z" />
+    <path id="aichi" d="M700,300 h40 v40 h-40 z" />
+    <path id="mie" d="M800,300 h40 v40 h-40 z" />
+    <path id="shiga" d="M100,400 h40 v40 h-40 z" />
+    <path id="kyoto" d="M200,400 h40 v40 h-40 z" />
+    <path id="osaka" d="M300,400 h40 v40 h-40 z" />
+    <path id="hyogo" d="M400,400 h40 v40 h-40 z" />
+    <path id="nara" d="M500,400 h40 v40 h-40 z" />
+    <path id="wakayama" d="M600,400 h40 v40 h-40 z" />
+    <path id="tottori" d="M700,400 h40 v40 h-40 z" />
+    <path id="shimane" d="M800,400 h40 v40 h-40 z" />
+    <path id="okayama" d="M100,500 h40 v40 h-40 z" />
+    <path id="hiroshima" d="M200,500 h40 v40 h-40 z" />
+    <path id="yamaguchi" d="M300,500 h40 v40 h-40 z" />
+    <path id="tokushima" d="M400,500 h40 v40 h-40 z" />
+    <path id="kagawa" d="M500,500 h40 v40 h-40 z" />
+    <path id="ehime" d="M600,500 h40 v40 h-40 z" />
+    <path id="kochi" d="M700,500 h40 v40 h-40 z" />
+    <path id="fukuoka" d="M800,500 h40 v40 h-40 z" />
+    <path id="saga" d="M100,600 h40 v40 h-40 z" />
+    <path id="nagasaki" d="M200,600 h40 v40 h-40 z" />
+    <path id="kumamoto" d="M300,600 h40 v40 h-40 z" />
+    <path id="oita" d="M400,600 h40 v40 h-40 z" />
+    <path id="miyazaki" d="M500,600 h40 v40 h-40 z" />
+    <path id="kagoshima" d="M600,600 h40 v40 h-40 z" />
+    <path id="okinawa" d="M700,600 h40 v40 h-40 z" />
+  </g>
+</svg>
