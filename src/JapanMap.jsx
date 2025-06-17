@@ -1,3 +1,4 @@
+/* PLACEHOLDER: Canvas内のコードをここに貼り付け */
 // 全国47都道府県対応のユニット表示・隣接制限付き移動可能なReactコンポーネント
 import { useState } from "react";
 
